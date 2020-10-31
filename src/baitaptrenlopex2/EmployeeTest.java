@@ -3,6 +3,8 @@ package baitaptrenlopex2;
 import junit.framework.TestCase;
 
 public class EmployeeTest extends TestCase {
+	
+	//comment demo thay doi github
 	public void testContructor() {
 		new Employee("nam", 40);
 		new Employee("mai", 30);
